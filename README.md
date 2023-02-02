@@ -1,4 +1,4 @@
-# Simple JoKenPo Game - Rock - Paper - Scissor
+# Simple Flutter/Dart - JoKenPo Game - Rock - Paper - Scissor
 
 A new Flutter project.
 
