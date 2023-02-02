@@ -1,16 +1,7 @@
-# jokenpo_git
+# Simple JoKenPo Game - Rock - Paper - Scissor
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![print_jokenpo_github](https://user-images.githubusercontent.com/54247489/216444606-21a78a29-54f3-4eb1-9e3d-89343ff9ec1d.PNG)
